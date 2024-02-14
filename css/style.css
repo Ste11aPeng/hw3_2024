@@ -129,7 +129,6 @@ nav a:focus {
 }
 
 .skip a:focus {
-  position: static
   top: 20px;
 }
 
